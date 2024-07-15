@@ -1,0 +1,27 @@
+.form-section h1 {
+  text-align: center;
+}
+.form-section form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form-section .input {
+  border: 2px solid #e50914;
+  background: #141414;
+  color: #e5e5e5;
+  padding: 5px;
+  margin-bottom: 10px;
+  outline: none;
+}
+.input::placeholder {
+  color: #868686;
+}
+.form-section input[type="submit"] {
+  background: #e50914;
+  color: #e5e5e5;
+  padding: 5px 10px;
+  margin-top: 15px;
+  border: none;
+  cursor: pointer;
+}

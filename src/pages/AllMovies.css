@@ -1,0 +1,25 @@
+.one-movie {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid #e50914;
+  padding: 0 10px;
+  margin: 30px auto;
+}
+.one-movie p {
+  width: 200px;
+}
+.one-movie a {
+  text-decoration: none;
+  color: #b92930;
+}
+.one-movie button {
+  font-size: 14px;
+  background: #e50914;
+  color: #e5e5e5;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+}

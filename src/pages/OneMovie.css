@@ -1,0 +1,12 @@
+.one-movie-section {
+  width: 500px;
+  text-align: center;
+  border: 2px solid #e50914;
+  margin: 50px auto;
+  padding: 10px;
+}
+.one-movie-section a {
+  color: #e50914;
+  text-decoration: none;
+  padding-bottom: 10px;
+}
